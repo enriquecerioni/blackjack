@@ -16,9 +16,9 @@ let playerPoints = 0,
     computerPoints = 0;
 
 // HTML References
-const btnDraw   = document.querySelector('#btnPedir');
-const btnStop   = document.querySelector('#btnDetener');
-const btnNew    = document.querySelector('#btnNuevo');
+const btnDraw   = document.querySelector('#btnDraw');
+const btnStop   = document.querySelector('#btnStop');
+const btnNew    = document.querySelector('#btnNew');
 
 const divPlayerCards     = document.querySelector('#player-cards');
 const divComputerCards   = document.querySelector('#computer-cards');
